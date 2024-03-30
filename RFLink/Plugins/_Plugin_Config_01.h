@@ -42,6 +42,7 @@
 #define PLUGIN_015 // Home Easy EU
 #define PLUGIN_017 // RTS
 #define PLUGIN_016 // Silvercrest
+#define PLUGIN_018 // ChiliTec RSL
 // -------------------
 // Weather sensors
 // -------------------
@@ -123,6 +124,7 @@
 // #define PLUGIN_TX_015           // Home Easy EU     (14)
 #define PLUGIN_TX_017           // RTS
 #define PLUGIN_TX_016           // Silvercrest
+#define PLUGIN_TX_018           // ChiliTec RSL
 // -------------------
 // Doorbells
 // -------------------
